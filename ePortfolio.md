@@ -22,12 +22,14 @@ with databases I learned how information is distributed using different database
 ![graph photo](./resources/graph.png)
 
 
-As for algorithms I learned about scheduling tasks with hardware devices, here is an example of Micro controlling this LED lightbulb that receives signals through The motherboards data bus
-[db link]
+As for algorithms I learned about scheduling tasks with hardware devices, here is an example of Micro controlling this LED lightbulb that receives signals through The motherboards data bus:
+
+
+![led video](https://youtu.be/DkFoZhahXq4)
 
 
 # Code Review
-[Code Review Video](https://www.dropbox.com/s/cdu9nh4ni28skid/code%20review.MOV?dl=0)
+[Code Review Video](https://youtu.be/qXqJZ667FPk)
 
 # Artifact
 [Spinventory Android Application Code](https://www.dropbox.com/s/h7z8dy6m2qynr9w/spinventory%20.zip?dl=0)
