@@ -2,8 +2,8 @@
 
 # Self-assessment
 
-_Coursework and Strengths
-_
+_Coursework and Strengths_
+
 _Collaborating and Teamwork_
 
 _Communication with Stakeholders_
